@@ -55,6 +55,7 @@
 - Resolving merge conflicts with Claude's help (conflict markers read and resolved with context)
 - Built-in safety behaviors: warns on force-push to main, won't skip hooks without explicit request, creates new commits instead of amending published ones, warns before staging `.env` files
 - **Hands-on**: Make changes with Claude, have it commit with good messages, and create a PR
+- **Key concept**: Always add a `.gitignore` before the first commit to prevent accidentally staging `node_modules`, `.env`, or build artifacts
 
 ### Lesson 2.4: Testing and Code Quality
 - Asking Claude to write tests for untested code
