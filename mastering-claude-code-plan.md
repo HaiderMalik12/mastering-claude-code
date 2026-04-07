@@ -4,6 +4,20 @@
 
 ---
 
+## Progress Tracker
+
+| Lesson | Title | Status | Completed |
+|--------|-------|--------|-----------|
+| 1.1 | What Is Claude Code and Why It Matters | ✅ Done | 2026-04-07 |
+| 1.2 | Installation and First Launch | ✅ Done | 2026-04-07 |
+| 1.3 | Your First Conversation with Claude Code | ✅ Done | 2026-04-07 |
+| 2.1 | Feature Building with Claude Code | ✅ Done | 2026-04-07 |
+| 2.2 | Debugging and Bug Fixing | ✅ Done | 2026-04-07 |
+| 2.3 | Git Workflows | ✅ Done | 2026-04-07 |
+| 2.4 | Testing and Code Quality | | |
+
+---
+
 ## Module 1: Foundations — Understanding Claude Code
 
 ### Lesson 1.1: What Is Claude Code and Why It Matters
